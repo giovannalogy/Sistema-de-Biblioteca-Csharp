@@ -8,7 +8,7 @@ O projeto foi realizado para compor nota de avaliação da trilha de aprendizado
 ## Tecnologias
 * [Visual Studio Community](https://visualstudio.microsoft.com/pt-br/vs/community/) - IDE de desenvolvimento
 * [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/) - Linguagem utilizada
-* [.NET 6.0](https://www.bing.com/search?q=.net+6.0&cvid=701ff9542dda4ccf8f6c5d9b0daa458b&aqs=edge.0.0l9.4032j0j4&FORM=ANAB01&PC=U531) - Framework utilizada
+* [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) - Framework utilizada
 
 ## Modelagem de projeto
 <img src="img/Organização.png">
@@ -16,7 +16,7 @@ O projeto foi realizado para compor nota de avaliação da trilha de aprendizado
 [Acesse pelo Whimsical](https://whimsical.com/sistema-de-biblioteca-RmkFGx8yE2GLNjE4yxbiVi) 
 
 ## Conceitos abordados 
-Orientação à objeto em C#, estruturacondicional, gerenciamento de classes, uilização de atributos e construtores, manipulação de objetos com o uso de métodos, encapsulamento, composição de listas, passagem de parâmetros e chamada de métrodos 
+Orientação à objeto em C#, estrutura condicional, gerenciamento de classes, uilização de atributos e construtores, manipulação de objetos com o uso de métodos, encapsulamento, composição de listas, passagem de parâmetros e chamada de métodos.
 
 ## Requisitos para o projeto funcionar
 I. Ter a IDE Visual Studio Community instalado com as configurações necessárias para realizar projetos em C#;
@@ -33,7 +33,7 @@ III. Fazer download do repositório, incluindo a solução (Sistema de Bibliotec
    VI. Clique no botão Sistema de Biblioteca.csproj e o terminal com o menu interativo irá abrir, aproveite!
 
     
-     Obs.: há casos em que a estrutura da linguagem não carrega com o programa, recomendo abrir os arquivos diretamente na pasta 
+     Obs.: há casos em que a estrutura da linguagem não carrega se for aberto pela IDE, recomendo abrir os arquivos diretamente na pasta 
      
       ao invés de acessar pelo Visual Studio.
 
