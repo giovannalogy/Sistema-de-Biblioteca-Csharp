@@ -13,7 +13,7 @@ O projeto foi realizado para compor nota de avaliação da trilha de aprendizado
 ## Modelagem de projeto
 <img src="img/Organização.png">
 
-[Acesse pelo Whimsical](https://whimsical.com/sistema-de-biblioteca-RmkFGx8yE2GLNjE4yxbiVi) 
+[Acesse pelo Lucid](https://lucid.app/lucidchart/719f1b78-dfb3-4abd-b3f6-2080114598e6/edit?viewport_loc=-1118%2C-968%2C2270%2C1038%2C0_0&invitationId=inv_ffb51ffc-f99a-4d01-a100-0695257cbe88) 
 
 ## Conceitos abordados 
 Orientação à objeto em C#, estrutura condicional, gerenciamento de classes, uilização de atributos e construtores, manipulação de objetos com o uso de métodos, encapsulamento, composição de listas, passagem de parâmetros e chamada de métodos.
