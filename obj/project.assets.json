@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giova\\OneDrive\\Área de Trabalho\\Sistema de biblioteca\\Sistema de biblioteca\\Sistema de biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\giova\\OneDrive\\Área de Trabalho\\Biblioteca\\Sistema de biblioteca.csproj",
       "projectName": "Sistema de biblioteca",
-      "projectPath": "C:\\Users\\giova\\OneDrive\\Área de Trabalho\\Sistema de biblioteca\\Sistema de biblioteca\\Sistema de biblioteca.csproj",
+      "projectPath": "C:\\Users\\giova\\OneDrive\\Área de Trabalho\\Biblioteca\\Sistema de biblioteca.csproj",
       "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giova\\OneDrive\\Área de Trabalho\\Sistema de biblioteca\\Sistema de biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\giova\\OneDrive\\Área de Trabalho\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

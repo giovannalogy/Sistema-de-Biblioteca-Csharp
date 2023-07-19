@@ -13,3 +13,18 @@ C:\Users\giova\OneDrive\Área de Trabalho\Sistema de biblioteca\Sistema de bibli
 C:\Users\giova\OneDrive\Área de Trabalho\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\net6.0\Sistema de biblioteca.pdb
 C:\Users\giova\OneDrive\Área de Trabalho\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\net6.0\Sistema de biblioteca.genruntimeconfig.cache
 C:\Users\giova\OneDrive\Área de Trabalho\Sistema de biblioteca\Sistema de biblioteca\obj\Debug\net6.0\ref\Sistema de biblioteca.dll
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\net6.0\Sistema de biblioteca.exe
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\net6.0\Sistema de biblioteca.deps.json
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\net6.0\Sistema de biblioteca.runtimeconfig.json
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\net6.0\Sistema de biblioteca.dll
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\bin\Debug\net6.0\Sistema de biblioteca.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\net6.0\Sistema de biblioteca.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\net6.0\Sistema de biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\net6.0\Sistema de biblioteca.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\net6.0\Sistema de biblioteca.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\net6.0\Sistema de biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\net6.0\Sistema de biblioteca.dll
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\net6.0\refint\Sistema de biblioteca.dll
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\net6.0\Sistema de biblioteca.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\net6.0\Sistema de biblioteca.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Biblioteca\obj\Debug\net6.0\ref\Sistema de biblioteca.dll

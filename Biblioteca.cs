@@ -10,7 +10,7 @@ namespace Sistema_de_biblioteca
     
         public class Biblioteca
         {
-            // Atributos
+            // chamamento de atributos lista e pessoa
             public List<Pessoa> Pessoas { get; set; }
             public List<Livro> Livros { get; set; }
 
@@ -50,10 +50,10 @@ namespace Sistema_de_biblioteca
             }
 
             //Verifca se o livro existe pela ID
-            public bool VerifyBookId(int BookID)
+            public bool VerifyBookId(int idLivro)
             {
 
-                if (Livros.Exists(l => l.Id == BookID))
+                if (Livros.Exists(l => l.Id == idLivro))
                 {
                     return true;
                 }
@@ -61,20 +61,21 @@ namespace Sistema_de_biblioteca
                 return false;
             }
 
-            // Encontra o livro pela ID
-            public string GetBookTitleById(int BookID)
-            {
-                return Livros.Find(l => l.Id == BookID).Titulo;
-            }
+            //Encontra o nome da pessoa pelo ID
+            public string GetPersonNameById(int idPessoa)
+        {
+            return Pessoas.Find(p => p.Id == idPessoa).Nome;
+        }
 
-           //Encontra o nome da pessoa pelo ID
-            public string GetPersonNameById(int PersonID)
+            // Encontra o livro pela ID
+            public string GetBookTitleById(int idLivro)
             {
-                return Pessoas.Find(p => p.Id == PersonID).Nome;
+                return Livros.Find(l => l.Id == idLivro).Titulo;
             }
+                  
 
             // Encontra a pessoa e o livro chamando o método emprestar o livro
-            // Este método é executado caso o livro seja diferente de nulo e a pessoa seja diferente de nula.
+            // Este método é executado caso o livro seja diferente de nulo e a pessoa seja diferente de nula (ou seja, quando encontrados)
             //O livro é emprestado e a pessoa (e o livro) são adicionados à lista de livros emprestados.
             public void EmprestarLivroBiblioteca(int idLivro, int idPessoa)
             {
